@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Travel-journal-with-React/static/css/main.2bf2827b.css",
+    "main.js": "/Travel-journal-with-React/static/js/main.271da6e5.js",
+    "static/media/nick-karvounis-3_ZGrsirryY-unsplash.jpg": "/Travel-journal-with-React/static/media/nick-karvounis-3_ZGrsirryY-unsplash.c17b42318d931a0ce534.jpg",
+    "index.html": "/Travel-journal-with-React/index.html",
+    "main.2bf2827b.css.map": "/Travel-journal-with-React/static/css/main.2bf2827b.css.map",
+    "main.271da6e5.js.map": "/Travel-journal-with-React/static/js/main.271da6e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bf2827b.css",
+    "static/js/main.271da6e5.js"
+  ]
+}
